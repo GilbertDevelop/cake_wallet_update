@@ -34,6 +34,17 @@ Cake Wallet includes support for several cryptocurrencies, including:
 * Decred (DCR)
 * Wownero (WOW)
 
+# **Cake Wallet v5.7 "Privacy Fortress" — a major update**
+**New supported coins and networks**
+
+* Haveno XMR→BTC ​​decentralized exchange within the wallet (full integration of Haveno DEX directly into Cake Wallet — XMR↔BTC exchange without KYC and without intermediaries)
+* Kaspa (KAS) — with full coin control support and fast gRPC sync
+* Pirate Chain (ARRR) — the most private coin with mandatory z-to-z shielding
+* Firo (FIRO) — with Lelantus Spark and coin control
+* Avalanche C-Chain and all AVC-20 tokens
+* Cosmos Hub (ATOM) and IBC transfers (via a Keplr-like interface, but within Cake)
+* TON (The Open Network) — including Jettons
+
 ## Features
 
 ### App-Wide Features
